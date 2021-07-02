@@ -17,4 +17,4 @@ As of 01/07/2021, Part 1 of the challenge (see included pdf file) has been compl
 * CONTINUE
 * SHOW_PLAYING
 
-The functionality for each of these commands (except NUMBER_OF_VIDEOS" has been written by me and can be found in "video_player.py".
+The code inside the function for each of the above commands (except NUMBER_OF_VIDEOS) was written by me and can be found in "video_player.py".
